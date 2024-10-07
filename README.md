@@ -26,7 +26,7 @@ The objective of this project was to assume the role of Penetration Tester and c
 - BloodHound: For active reconnaissance on Windows networks.
 - Curl: For transferring data with URLs and making HTTP requests.
 
-## Walk-Through
+## Walkthrough
 Assuming the role of a penetration tester hired by Rekall Corporation, I was tasked with identifying vulnerabilities across their technical infrastructure in preparation for the company’s upcoming business launch. The project was divided into three key parts, each focusing on different aspects of Rekall's system: their web application, Linux servers, and Windows servers. The three parts are interconnected, as vulnerabilities discovered in each could impact the overall security posture of the company.
 
 Part 1: Attacking the Web Application
