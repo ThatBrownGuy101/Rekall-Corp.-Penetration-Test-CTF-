@@ -1,4 +1,4 @@
-# Rekall Corp. Penetration Test (CTF)   (Need to add Report)
+# Rekall Corp. Penetration Test (CTF)
 
 ## Objective
 The objective of this project was to assume the role of Penetration Tester and conduct a comprehensive penetration test for a fictional company, Rekall Corporation, focusing on identifying vulnerabilities across their web application, Linux servers, and Windows servers. The goal was to assess the overall security of Rekall’s infrastructure and provide actionable insights on how to mitigate discovered vulnerabilities. This project involved offensive security techniques, vulnerability scanning, and exploitation, culminating in a detailed report of findings and recommendations to improve the company's cybersecurity defenses ahead of its business launch.
