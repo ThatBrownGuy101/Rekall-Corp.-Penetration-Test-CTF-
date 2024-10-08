@@ -40,6 +40,6 @@ The final phase involved assessing Rekall’s Windows infrastructure. Using the 
 
 By addressing vulnerabilities across the web application, Linux servers, and Windows servers, this project provided a comprehensive understanding of Rekall's security posture, highlighting the importance of securing all elements of a company’s technical infrastructure to prevent exploitation and potential breaches.
 
-
+<a href="https://github.com/ThatBrownGuy101/Rekall-Corp.-Penetration-Test-CTF-/blob/main/Rekall%20Corp.%20CTF%20Penetration%20Test%20Report.pdf">Rekall Corp. CTF Penetration Test Report</a>
 
 
