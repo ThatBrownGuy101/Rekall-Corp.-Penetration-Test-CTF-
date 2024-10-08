@@ -30,12 +30,15 @@ The objective of this project was to assume the role of Penetration Tester and c
 Assuming the role of a penetration tester hired by Rekall Corporation, I was tasked with identifying vulnerabilities across their technical infrastructure in preparation for the company’s upcoming business launch. The project was divided into three key parts, each focusing on different aspects of Rekall's system: their web application, Linux servers, and Windows servers. The three parts are interconnected, as vulnerabilities discovered in each could impact the overall security posture of the company.
 
 Part 1: Attacking the Web Application
+
 I began by targeting Rekall's newly developed web application, which is central to their virtual reality business. The goal was to find vulnerabilities that could potentially expose sensitive user data or allow unauthorized access to the platform. Using various offensive security techniques, I uncovered multiple vulnerabilities hidden as “flags” across the application, which helped me identify weaknesses in the application's security mechanisms. Exploiting these vulnerabilities provided insights into how external attackers might manipulate the application.
 
 Part 2: Attacking the Linux Servers
+
 Building on the web application assessment, I next focused on Rekall’s Linux servers. These servers are crucial for managing the company’s backend operations. Here, I used tools like Nessus and Nmap to scan for misconfigurations and weaknesses in the Linux operating systems. During this phase, I discovered and exploited vulnerabilities, leading to further insights into how Rekall’s infrastructure could be compromised through lateral movement from the web application to the server environment.
 
 Part 3: Attacking the Windows Computers
+
 The final phase involved assessing Rekall’s Windows infrastructure. Using the Kali Linux machine as the attack platform, I identified vulnerabilities in the Windows servers that could be exploited for further network infiltration. As with the previous phases, I located "flags" that signified successful exploitation of the system. These Windows-based vulnerabilities, such as weak password policies or outdated software, represented potential risks to the company’s overall network security.
 
 By addressing vulnerabilities across the web application, Linux servers, and Windows servers, this project provided a comprehensive understanding of Rekall's security posture, highlighting the importance of securing all elements of a company’s technical infrastructure to prevent exploitation and potential breaches.
